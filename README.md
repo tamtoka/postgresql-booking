@@ -55,6 +55,7 @@
 
 ## Скриншоты
 
+- [Таблицы и количество записей в pgAdmin](screenshots/01-pgadmin-tables.jpg)
 - [Список учебных бронирований](screenshots/02-bookings.png)
 - [Проверка занятого и свободного интервалов](screenshots/03-availability.png)
 
